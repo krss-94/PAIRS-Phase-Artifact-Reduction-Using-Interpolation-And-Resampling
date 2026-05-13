@@ -1,6 +1,9 @@
 # PAIRS — Phase Artifact Reduction Using Interpolation And Re-Sampling
 
 > A multirate preprocessing wrapper for phase vocoder pitch shifting that reduces spectral artifacts without modifying the vocoder's internal logic.
+<p align="center">
+  <img src="assets/banner.png" alt="Project Banner" width="100%">
+</p>
 
 [![MATLAB](https://img.shields.io/badge/MATLAB-R2022b%2B-blue?logo=mathworks)](https://www.mathworks.com/)
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
